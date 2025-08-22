@@ -1,2 +1,4 @@
 # uppgift0
-jag bygger en hemsida eller något
+jag heter albin och vi ska bygga en hemsida.
+
+(html, css)
